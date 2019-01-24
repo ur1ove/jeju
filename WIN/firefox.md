@@ -1,0 +1,2 @@
+- 주소창에 about:config
+- browser.cache.disk.parent_directory | 변경할 주소
