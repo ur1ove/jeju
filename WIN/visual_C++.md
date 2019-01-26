@@ -5,7 +5,8 @@
 - [x86](https://aka.ms/vs/15/release/vc_redist.x86.exe)
   
   
-### Visual C++ 2015 Redistributable Update 3 [URL](https://my.visualstudio.com/Downloads?pid=2082)
+### Visual C++ 2015 Redistributable Update 3 [URL](https://my.visualstudio.com/Downloads?pid=2082)  
+- 2017 버전이 설치되어 있으면 설치안 됨
 - [x64](https://download.my.visualstudio.com/pr/mu_visual_cpp_2015_redistributable_update_3_x64_9052538.exe?t=2270415d-1d8c-4ab0-875f-f83c093f70aa&e=1548549588&h=834e38678e51f5f9ad62d3f0ad8cfe74&su=1)
 - [x86](https://download.my.visualstudio.com/pr/mu_visual_cpp_2015_redistributable_update_3_x86_9052536.exe?t=d4246a9f-3602-46f1-97f6-55af6a5d74a7&e=1548549593&h=8c7d38577b25deaafdb06bce948b089f&su=1)
   
