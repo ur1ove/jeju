@@ -1,3 +1,5 @@
+## 지원되는 최신 Visual C++ 다운로드 [URL](https://support.microsoft.com/ko-kr/help/2977003/the-latest-supported-visual-c-downloads)
+
 ### Visual C++ 2013와 Visual C++ 재배포 가능 패키지에 대한 업데이트 [URL](https://support.microsoft.com/ko-kr/help/3179560/update-for-visual-c-2013-and-visual-c-redistributable-package)
 - [x64](http://download.microsoft.com/download/f/8/d/f8d970bd-4218-49b9-b515-e6f1669d228b/vcredist_x64.exe)
 - [x86](http://download.microsoft.com/download/f/8/d/f8d970bd-4218-49b9-b515-e6f1669d228b/vcredist_x86.exe)
