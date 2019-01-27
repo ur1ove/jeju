@@ -1,4 +1,4 @@
-### Windows 10 SDK [URL](https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk)  
+### Windows 10 SDK [우리말 URL](https://developer.microsoft.com/ko-kr/windows/downloads/windows-10-sdk), [영문 URL](https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk)  
 - [ISO 다운로드](https://software-download.microsoft.com/download/sg/17763.132.181022-1834.rs5_release_svc_prod1_WindowsSDK.iso)
 - [설치파일 다운로드](https://download.microsoft.com/download/5/C/3/5C3770A3-12B4-4DB4-BAE7-99C624EB32AD/windowssdk/winsdksetup.exe)
   
